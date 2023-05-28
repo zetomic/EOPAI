@@ -1,0 +1,28 @@
+ea_wins :
+Level 1 - 205
+Level 2 - 10
+Level 3 - 19
+Level 4 - 45
+Level 5 - 9
+
+minimax_wins :
+Level 1 - 284
+Level 2 - 155
+Level 3 - 163
+Level 4 - 144
+Level 5 - 189
+
+total_games :
+Level 1 - 523
+Level 2 - 200
+Level 3 - 200
+Level 4 - 200
+Level 5 - 200
+
+draws :
+Level 1 - 34
+Level 2 - 35
+Level 3 - 18
+Level 4 - 11
+Level 5 - 2
+
